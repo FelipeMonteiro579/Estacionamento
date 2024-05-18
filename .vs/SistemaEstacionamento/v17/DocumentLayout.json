@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|e:\\c-sharp\\dio\\sistemaestacionamento\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|solutionrelative:models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|e:\\c-sharp\\dio\\sistemaestacionamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|e:\\c-sharp\\dio\\sistemaestacionamento\\models\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD1B9-11CB-4895-B9BB-71417E0DDF6D}|SistemaEstacionamento.csproj|solutionrelative:models\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "Models\\Sistema.cs",
+              "ToolTip": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Models\\Sistema.cs",
+              "RelativeToolTip": "Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:33:41.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estacionamento.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Models\\Estacionamento.cs",
+              "RelativeDocumentMoniker": "Models\\Estacionamento.cs",
+              "ToolTip": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Models\\Estacionamento.cs",
+              "RelativeToolTip": "Models\\Estacionamento.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:44:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C-Sharp\\DIO\\SistemaEstacionamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:44:41.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
